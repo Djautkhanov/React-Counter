@@ -1,0 +1,43 @@
+.main {
+    height: 100%;
+}
+.main__counter{
+    width: 100%;
+    height: 340;
+    font-weight: 400;
+    font-size: 288px;
+    line-height: 339px;
+    text-align: center;
+    color: #F27C0F;
+}
+.main__btn{
+    display: flex;
+    column-gap: 55px;
+    justify-content: center;
+}
+.btn{
+    width: 200px;
+    height: 58px;
+    left: 365px;
+    top: 481px;
+    border-radius: 4px;
+    cursor: pointer;;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.btn__color1{
+    background-color: #003399
+}
+.btn__color2{
+    background-color: #F27C0F
+}
+.btn__color3{
+    background-color: #E5E5E5
+}
+
