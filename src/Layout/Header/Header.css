@@ -1,44 +1,42 @@
-*{
-
+* {
 }
-.header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 28px 20px;
-   
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 28px 20px;
 }
-.header__list{
-    display: flex;
-    column-gap:30px ;
-    font-family: 'Gilroy';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 28px;
-    color: #003399;;
+.header__list {
+  display: flex;
+  column-gap: 30px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #003399;
 }
-.logo__c{
-    position: absolute;
-width: 50px;
-height: 50px;
-left: 335px;
-top: 17px;
+.logo__c {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 335px;
+  top: 17px;
 
-background: #003399;
+  background: #003399;
 }
-.logo_text{
-    /* position: absolute; */
-width: 119px;
-height: 47px;
-left: 385px;
-top: 15px;
+.logo_text {
+  /* position: absolute; */
+  width: 119px;
+  height: 47px;
+  left: 385px;
+  top: 15px;
 
-font-family: 'Gilroy';
-font-style: normal;
-font-weight: 700;
-font-size: 39px;
-line-height: 47px;
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 47px;
 
-color: #F27C0F;
+  color: #f27c0f;
 }
